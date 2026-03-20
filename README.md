@@ -93,7 +93,8 @@ Used **Groq Llama API** to analyze employee feedback and classify sentiment as P
 - Performance by Department
 - Gender Diversity (Pie Chart)
 - Overtime vs Attrition
-
+## 📸 Dashboard Preview
+![HR Analytics Dashboard](dashboard_preview.png)
 ---
 
 ## ⚙️ Setup & Run
